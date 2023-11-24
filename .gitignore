@@ -92,3 +92,8 @@ local.properties
 #  !modules/yourmodule
 #
 # ==================
+
+
+# Added by cargo
+
+/target
